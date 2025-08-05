@@ -1,2 +1,2 @@
 # baby-yoda
-Baby Yoda em CSS
+Um projeto que recria uma versão animada do Baby Yoda totalmente em CSS.
